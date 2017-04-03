@@ -1,8 +1,6 @@
 # BreakoutGame
 A simple brick crashing game :)
 
-# Pre-work - *TodoList*
-
 BreakoutGame is an android app that mimmics the old Brick Game.
 
 Submitted by: Hammed Opejin
